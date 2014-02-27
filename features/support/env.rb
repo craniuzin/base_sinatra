@@ -15,7 +15,6 @@ class AppWorld
   include RSpec::Matchers
 end
 
-
 World do
   AppWorld.new
 end
